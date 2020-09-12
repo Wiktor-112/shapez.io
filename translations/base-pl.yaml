@@ -238,7 +238,7 @@ dialogs:
     massDeleteConfirm:
         title: Potwierdź Usuwanie
         desc: >-
-            Usuwasz sporą ilość maszyn (<count> gwoli ścisłości)! Czy na pewno chcesz kontynuować?
+            Usuwasz sporą ilość maszyn (<count> w woli ścisłości)! Czy na pewno chcesz kontynuować?
 
     blueprintsNotUnlocked:
         title: Jeszcze Nie Odblokowane
